@@ -81,3 +81,4 @@ elif (len(numwordlist) == 4 and "and" in numwordlist):
             pass
 
 """
+#This script is incomplete, still needs to be worked on
